@@ -1,7 +1,6 @@
 /*
  * Mariann Szabo-Freund
- * ITCS 3153
- * Assignment 2
+ *
  */
 
 public class Node {
